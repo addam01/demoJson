@@ -4,9 +4,9 @@
     "password": "herpderp123"
   },
   "posts": [
-    { "id": 1, "How to learn Dungeons & Dragons": "Buy the Book dimwit!" },
-    { "id": 2, "Warhammer 40k": "In the grim future, there is only war" },
-    { "id": 3, "One Punch Man": "Saitama Sensei!" }
+    { "id": 1, "title": "How to learn Dungeons & Dragons" },
+    { "id": 2, "title": "Warhammer 40k: In the grim future, there is only war" },
+    { "id": 3, "title": "One Punch Man: Saitama Sensei!" }
   ],
   "profile": {
     "name": "addam",
