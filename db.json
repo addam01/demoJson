@@ -6,7 +6,8 @@
   "posts": [
     { "id": 1, "title": "How to learn Dungeons & Dragons" },
     { "id": 2, "title": "Warhammer 40k: In the grim future, there is only war" },
-    { "id": 3, "title": "One Punch Man: Saitama Sensei!" }
+    { "id": 3, "title": "One Punch Man: Saitama Sensei!" },
+    { "id": 4, "title": "Life and Death of Democracy" }
   ],
   "profile": {
     "name": "addam",
